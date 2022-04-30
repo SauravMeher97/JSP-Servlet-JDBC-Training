@@ -17,7 +17,7 @@ public class HelloWorldServlet extends GenericServlet {
 		PrintWriter out = response.getWriter();
 		out.println("<html>");
 		out.println("<body>");
-		out.println("<h1>Hello Servlets World</h1>");
+		out.println("<h1>Hello Servlets World!</h1>");
 		out.println("</body>");
 		out.println("</html>");
 		
